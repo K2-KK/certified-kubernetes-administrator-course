@@ -4,7 +4,7 @@
   
 #### Our Lab Design
 
-  ![od](../../images/od.PNG)
+  ![od1](../../images/od1.PNG)
   
 #### Vagrant
 - We will be using vagrant, we have a vagrant file which will deploy the setup with a single command
